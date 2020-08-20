@@ -5,12 +5,12 @@ we are required to use execv() instead of exevp(), which means we will have to r
 file name that appears on the command line.
 
 
-![Welcome message](C:/Users/hadas/Desktop/ "welcome.png")
+![Welcome message](http://C:/Users/hadas/Desktop/Images/welcome.png)
 
-![Invoking commands](C:/Users/hadas/Desktop/ "commands.png")
+![Invoking commands](C:/Users/hadas/Desktop/Images/commands.png)
 
-![Invoking invalid command](C:/Users/hadas/Desktop/ "invalid.png")
+![Invoking invalid command](C:/Users/hadas/Desktop/Images/invalid.png)
 
-![Exiting](C:/Users/hadas/Desktop/ "exit.png")
+![Exiting](C:/Users/hadas/Desktop/Images/exit.png)
 
 
