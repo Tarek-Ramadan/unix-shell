@@ -3,3 +3,14 @@ For this class project, we designed and implemented a simple, interacitve shell 
 child process. The skeleton for the algorithm to solve the probelm was taken from the book used in the course operational requirements: C language, in the solution
 we are required to use execv() instead of exevp(), which means we will have to read the PATH enviornment variable, then search each directory in the PATH for the command line
 file name that appears on the command line.
+
+
+![Welcome message](C:/Users/hadas/Desktop/ "welcome.png")
+
+![Invoking commands](C:/Users/hadas/Desktop/ "commands.png")
+
+![Invoking invalid command](C:/Users/hadas/Desktop/ "invalid.png")
+
+![Exiting](C:/Users/hadas/Desktop/ "exit.png")
+
+
