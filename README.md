@@ -4,13 +4,16 @@ child process. The skeleton for the algorithm to solve the probelm was taken fro
 we are required to use execv() instead of exevp(), which means we will have to read the PATH enviornment variable, then search each directory in the PATH for the command line
 file name that appears on the command line.
 
+### Welcome message
+![](welcome.png)
 
-![Welcome message](http://C:/Users/hadas/Desktop/Images/welcome.png)
+## Invoking commands
+![](commands.png)
 
-![Invoking commands](C:/Users/hadas/Desktop/Images/commands.png)
+## Invoking invalid command
+![](invalid.png)
 
-![Invoking invalid command](C:/Users/hadas/Desktop/Images/invalid.png)
-
-![Exiting](C:/Users/hadas/Desktop/Images/exit.png)
+## Exiting
+![](exit.png)
 
 
